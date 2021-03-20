@@ -9,4 +9,7 @@ jb/
 get_source.sh
 build/
 *.log
-
+.DS_Store
+HelloWorld.java
+HelloWorld.class
+demo/
