@@ -8,3 +8,5 @@ nashorn/
 jb/
 get_source.sh
 build/
+*.log
+
